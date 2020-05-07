@@ -18,7 +18,7 @@ Doncs això passa amb molts textos, us passa alguna situació com aquesta:
 
 Això es va preguntar en [Robert Gunning](https://en.wikipedia.org/wiki/Gunning_fog_index) l'any 1952 i es va "enpescar" una fórmula per classificar els textos. La fórmula és:
 
-$$IndexBoira = 0.4 \times (MitjanaParaulesPerFrase-PercentatgeParaulesComplexes)$$ 
+$$IndexBoira = 0.4 \times (MitjanaParaulesPerFrase+PercentatgeParaulesComplexes)$$ 
 
 On:
 
